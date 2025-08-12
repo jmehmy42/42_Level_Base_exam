@@ -28,13 +28,13 @@ This repository contains the test for Rank 02 in the 42 Level Base exam.
 
 ```sh
 # Run the program (example)
-./rank02_test
+bash exampractice.sh  
 
 # Edit your solution
 vim subject/subject.c
 
 # Check your work
-./rank02_test
+type test
 ```
 
 ## Notes
